@@ -12,8 +12,6 @@ const Header = () => {
           <Navbar.Brand href="/">APP</Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link href="/add">ADD</Nav.Link>
-            <Nav.Link href="/edit">EDIT</Nav.Link>
-            <Nav.Link href="/delete">DELETE</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
